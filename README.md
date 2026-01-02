@@ -46,4 +46,6 @@ Make sure you have:
 
 ---
 
+**License:** [MIT](LICENSE)
+
 **Last Updated:** January 2, 2026
