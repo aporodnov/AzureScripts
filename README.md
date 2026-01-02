@@ -8,7 +8,7 @@ Automation solutions for Azure resource analysis, governance, and auditing. Find
 |----------|--------|---------|-----------|
 | **Governance** | [analyze-policy](governance/analyze-policy/README.md) | Audit Azure policies across management group hierarchies | Advanced |
 | **Identity & Access** | [analyze-rbac](identity-access/analyze-rbac/README.md) | Analyze RBAC and PIM assignments organization-wide | Advanced |
-| **Networking** | Coming soon | Network configuration and audit scripts | — |
+| **Networking** | [set-privatednsfallback](networking/set-privatednsfallback/README.md) | Configure Private DNS fallback resolution policy | Intermediate |
 
 ## Before You Start
 
